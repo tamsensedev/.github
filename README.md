@@ -12,4 +12,11 @@ TAMsense solves this by turning user behavior data into decision-ready product r
 - Chat with your product to get quick answers based on your entire database
 - Get qualitative evidence at scale, with all your data clearly explained
 
-
+<p>
+  <a href="https://www.linkedin.com/company/tamsense/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.producthunt.com/products/tamsense?launch=tamsense" target="_blank">
+    <img src="https://img.shields.io/badge/Product%20Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt" />
+  </a>
+</p>
